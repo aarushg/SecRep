@@ -1,0 +1,6 @@
+==== Report ====
+Name: aa
+Age: 22
+Email: a@as.com
+This report was generated just for you. Thank you for using the CLI!
+==== End of Report ====
